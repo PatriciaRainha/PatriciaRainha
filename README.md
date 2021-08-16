@@ -4,8 +4,8 @@
 **PatriciaRainha/PatriciaRainha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-- Nome: Patrícia Soares Rainha
-- Data de Nascimento: 01/09/2000
+<p>- Nome: Patrícia Soares Rainha</p>
+<p>- Data de Nascimento: 01/09/2000</p>
 - 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
