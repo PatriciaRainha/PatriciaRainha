@@ -3,7 +3,7 @@
 
 [![Linkedin](https://user-images.githubusercontent.com/82671773/129623050-527424fa-6ca8-462b-a3c4-791ae753b338.jpg)](https://www.linkedin.com/in/patricia-s-rainha/)
 
-##🖥️Programming Languages
+###🖥️Programming Languages
 
 <div style="display: inline_block">
    <img alt="luan-java" src="https://github.com/PatriciaRainha/PatriciaRainha/issues/8#issue-1116965423" />
