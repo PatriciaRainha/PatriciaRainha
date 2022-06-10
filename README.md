@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hi!
+## Hi!
 <p> My name is patricia, i am a student at SENAI Suíço-Brasileira studying technical in Systems Analysis and Development</p>
 
 [![Linkedin](https://user-images.githubusercontent.com/82671773/129623050-527424fa-6ca8-462b-a3c4-791ae753b338.jpg)](https://www.linkedin.com/in/patricia-s-rainha/)
